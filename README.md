@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Muhammadsiddiq-code/muhammadsiddiq-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Codewars Badge](https://www.codewars.com/users/Mukhammad%20Siddiq/badges/large)](https://www.codewars.com/users/azamjonbro)
 
-Here are some ideas to get you started:
+<!--![azamjonbro's github stats](https://github-readme-stats.vercel.app/api?username=azamjonbro&show_icons=true&theme=default)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadsiddiq-code&count_private=true&show_icons=true&line_height=40&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsiddiq-code&langs_count=5&hide=html,cmake&theme=holi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azamjonbro)](https://github.com/anuraghazra/github-readme-stats)  -->
+
+![](https://komarev.com/ghpvc/?username=muhammadsiddiq-codeo&color=blue&theme=onedark)
+
+- 🔭 I’m currently learning at Algoritm
+- 🌱 I’m currently learning VueJS, JS
+- 💬 Ask me about nothing :)
+- 📫 How to reach me: [@azamjonbro](https://t.me/mukhammadsiddiq_99) on telegram
+- 😄 Pronouns: Muhammadsiddiq,
+- ⚡️ Fun fact: :-)
+
+<a href="https://github.com/azamjonbro">
+<!--   <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=light&spin=0" alt="Current Spotify Song"> -->
+</a>
