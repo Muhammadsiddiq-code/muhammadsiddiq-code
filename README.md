@@ -3,7 +3,7 @@
 [![Codewars Badge](https://www.codewars.com/users/Mukhammad%20Siddiq/badges/large)](https://www.codewars.com/users/Mukhammad%20Siddiq)
 
 <!--![Myhammad Siddiq's github stats](https://github-readme-stats.vercel.app/api?username=muhammadsiddiq-code&show_icons=true&theme=default)-->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadsiddiq-code&count_private=true&show_icons=true&line_height=40&theme=holi)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadsiddiq-code&count_private=true&show_icons=true&line_height=40&theme=holi * 5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsiddiq-code&langs_count=5&hide=html,cmake&theme=holi)
 
 
