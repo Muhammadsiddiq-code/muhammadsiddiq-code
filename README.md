@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsiddiq-code&langs_count=5&hide=html,cmake&theme=holi)
 
 
-<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadsiddiq-code)](https://github.com/anuraghazra/github-readme-stats * 5)  -->
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadsiddiq-code)](https://github.com/anuraghazra/github-readme-stats)  -->
 
 ![](https://komarev.com/ghpvc/?username=muhammadsiddiq-codeo&color=blue&theme=onedark)
 
