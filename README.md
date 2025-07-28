@@ -14,7 +14,7 @@
 - 🔭 I’m currently learning at Algoritm
 - 🌱 I’m currently learning VueJS, JS
 - 💬 Ask me about nothing :)
-- 📫 How to reach me: [@MuhammadSiddiq](https://t.me/mukhammadsiddiq_99) on telegram
+- 📫 How to reach me: [@MuhammadSiddiq---IT](t.me/Muhammad_WebDasturchi) on telegram
 - 😄 Pronouns: Muhammadsiddiq,
 - ⚡️ Fun fact: :-)
 
