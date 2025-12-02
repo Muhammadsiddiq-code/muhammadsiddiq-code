@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=muhammadsiddiq-codeo&color=blue&theme=onedark)
 
 - 🔭 I’m currently working at Algoritm
-- 🌱 I’m currently learning NODE.JS
+- 🌱 I’m currently learning TypeScript
 - 💬 Ask me about nothing :)
 - 📫 How to reach me: [@MuhammadSiddiq---IT](t.me/Muhammad_WebDasturchi) on telegram
 - 😄 Pronouns: Muhammadsiddiq,
