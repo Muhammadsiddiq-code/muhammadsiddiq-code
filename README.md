@@ -12,7 +12,7 @@
 <!-- About Me Section -->
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** specializing in building modern, user-friendly and efficient web applications.  
+I'm a passionate **Fullstack Developer** specializing in building modern, user-friendly and efficient web applications.  
 Constantly learning, improving and building new products.
 
 - 🔭 Working at **Algoritm**
