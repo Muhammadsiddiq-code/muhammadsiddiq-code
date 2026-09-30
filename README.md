@@ -1,8 +1,9 @@
 <div align="center">
 
-**🇺🇿 O'zbekcha** · [🇬🇧 English](./README.en.md)
+<a href="./README.md"><img src="https://img.shields.io/badge/O'zbekcha-FF6B1A?style=flat-square" alt="O'zbekcha" /></a>
+<a href="./README.en.md"><img src="https://img.shields.io/badge/English-1A1612?style=flat-square" alt="English" /></a>
 
-<br>
+<br><br>
 
 # Muhammad Siddiq
 
@@ -17,12 +18,12 @@
 ```bash
 $ whoami
 > Muhammad Siddiq — Full-stack & AI Automation Developer
-> 📍 Namangan, O'zbekiston
+> Namangan, O'zbekiston
 
 $ cat story.txt
 > 2024  →  dasturlashni o'rganishni boshladim
 > 2025  →  "Algoritm" o'quv markazida ishladim
-> 2026  →  o'z startapim: NovaGrid 🚀
+> 2026  →  o'z startapim: NovaGrid
 
 $ echo $MISSION
 > Startaplarni g'oyadan real ishlaydigan mahsulotga aylantirish
@@ -31,59 +32,57 @@ $ echo $MISSION
 
 <br>
 
-## ⚡ Nima qila olaman
+## <img src="icons/zap.svg" width="22" /> Nima qila olaman
 
 ```
-💡 G'oya  ──▶  🎨 Dizayn  ──▶  ⚙️ MVP  ──▶  🤖 AI  ──▶  🚀 Launch
+G'oya  ──▶  Dizayn  ──▶  MVP  ──▶  AI  ──▶  Launch
 ```
 
-- **Startap uchun MVP** — g'oyani noldan to'liq ishlaydigan web mahsulotga aylantiraman
-- **AI integratsiya** — chatbotlar, avtomatik javoblar, ma'lumot tahlili, AI yordamchilar
-- **To'liq AI boshqaradigan tizimlar** — jarayonlarni odam aralashuvisiz ishlaydigan qilaman
-- **Telegram botlar** — xabarnomalar, buyurtmalar, tizim bilan integratsiya
+| | |
+|---|---|
+| <img src="icons/code.svg" width="20" /> **Startap uchun MVP** | G'oyani noldan to'liq ishlaydigan web mahsulotga aylantiraman |
+| <img src="icons/cpu.svg" width="20" /> **AI integratsiya** | Chatbotlar, avtomatik javoblar, ma'lumot tahlili, AI yordamchilar |
+| <img src="icons/refresh.svg" width="20" /> **Avtomatlashtirish** | Tizimni to'liq AI boshqaradigan, odam aralashuvisiz ishlaydigan qilaman |
+| <img src="icons/send.svg" width="20" /> **Telegram botlar** | Xabarnomalar, buyurtmalar, tizim bilan integratsiya |
 
 <br>
 
-## 🛠 Stack
+## <img src="icons/layers.svg" width="22" /> Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs,nodejs,postgres,mongodb,tailwind,figma&theme=dark" alt="Stack" />
 </p>
 
-<p align="center">
-  <code>🤖 AI Integration</code> &nbsp; <code>✈️ Telegram Bots</code> &nbsp; <code>⚙️ Automation</code>
-</p>
-
 <br>
 
-## 🌟 Asosiy loyiha — NovaGrid
+## <img src="icons/star.svg" width="22" /> Asosiy loyiha — NovaGrid
 
 > **Imtihon — adolatli, tez va nazorat ostida.**
 > O'quv markazlar uchun AI imtihon, proctoring va baholash platformasi.
 
 | | |
 |---|---|
-| 🎥 **AI proctoring** | Kamera, yuz tanish, oynani tark etishni qayd qilish — nazoratchi kerak emas |
-| 🧠 **AI yordamchi** | Mavzu bering — AI savollar tuzadi, natijani o'quvchiga o'zbek tilida tushuntiradi |
-| ⚡ **Avtomatik baholash** | Imtihon tugashi bilan baho va zaif mavzular tahlili tayyor |
-| 👥 **3 ta panel** | Markaz rahbari, o'qituvchi va o'quvchi — har biriga o'z paneli |
+| <img src="icons/video.svg" width="20" /> **AI proctoring** | Kamera, yuz tanish, oynani tark etishni qayd qilish — nazoratchi kerak emas |
+| <img src="icons/bot.svg" width="20" /> **AI yordamchi** | Mavzu bering — AI savollar tuzadi, natijani o'quvchiga o'zbek tilida tushuntiradi |
+| <img src="icons/zap.svg" width="20" /> **Avtomatik baholash** | Imtihon tugashi bilan baho va zaif mavzular tahlili tayyor |
+| <img src="icons/users.svg" width="20" /> **3 ta panel** | Markaz rahbari, o'qituvchi va o'quvchi — har biriga o'z paneli |
 
 <br>
 
-## 📂 Loyihalar
+## <img src="icons/folder.svg" width="22" /> Loyihalar
 
 | Loyiha | Nima qiladi |
 |---|---|
-| 🎓 **[NovaGrid](#-asosiy-loyiha--novagrid)** | AI proctoring va baholash bilan imtihon platformasi |
-| 🛡 **[Cyber-shield.uz](https://cyber-shield.uz)** | Kiberxavfsizlik bo'yicha amaliyot va o'quv platformasi |
-| 🎮 **[GoForFun.uz](https://goforfun.uz)** | [bir gapda tavsif] |
-| 🏥 **Ranomed klinikasi** | Klinika sayti + navbat tizimi to'liq avtomatlashtirilgan |
-| 📱 **Apple-Green** | Telefon do'koni uchun oylik aylanma summani kuzatish tizimi |
-| 🏫 **Maktab sayti** | Maktab uchun rasmiy veb-sayt |
+| <img src="icons/graduation.svg" width="20" /> **NovaGrid** | AI proctoring va baholash bilan imtihon platformasi |
+| <img src="icons/shield.svg" width="20" /> **[Cyber-shield.uz](https://cyber-shield.uz)** | Kiberxavfsizlik bo'yicha amaliyot va o'quv platformasi |
+| <img src="icons/gamepad.svg" width="20" /> **[GoForFun.uz](https://goforfun.uz)** | [bir gapda tavsif] |
+| <img src="icons/clinic.svg" width="20" /> **Ranomed klinikasi** | Klinika sayti + navbat tizimi to'liq avtomatlashtirilgan |
+| <img src="icons/phone.svg" width="20" /> **Apple-Green** | Telefon do'koni uchun oylik aylanma summani kuzatish tizimi |
+| <img src="icons/school.svg" width="20" /> **Maktab sayti** | Maktab uchun rasmiy veb-sayt |
 
 <br>
 
-## 📬 Bog'lanish
+## <img src="icons/mail.svg" width="22" /> Bog'lanish
 
 <p align="center">
   <a href="mailto:xamidullayevich10@gmail.com"><img src="https://img.shields.io/badge/Email-1A1612?style=for-the-badge&logo=gmail&logoColor=FF6B1A" /></a>
@@ -93,5 +92,5 @@ $ echo $MISSION
 </p>
 
 <p align="center">
-  <i>G'oyangiz bormi? Keling, uni birga ishlaydigan mahsulotga aylantiramiz.</i> 🤝
+  <i>G'oyangiz bormi? Keling, uni birga ishlaydigan mahsulotga aylantiramiz.</i>
 </p>
